@@ -1,2 +1,3 @@
-# read-az-keyvault-secrets
+# read-azure-secrets
+
 Read all secrets from azure key vault
