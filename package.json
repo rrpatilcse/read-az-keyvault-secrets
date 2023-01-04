@@ -1,11 +1,11 @@
 {
   "name": "read-azure-secrets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Read all secrets from azure key vault",
   "main": "index.js",
   "repository": { 
     "type": "git", 
-    "url": "https://github.com/bnb/metaverse.git"
+    "url": "https://github.com/rrpatilcse/read-az-keyvault-secrets"
   },
   "keywords": [
     "read-azure-secrets",
