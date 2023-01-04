@@ -1,10 +1,11 @@
 {
   "name": "read-azure-secrets",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Read all secrets from azure key vault",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": { 
+    "type": "git", 
+    "url": "https://github.com/bnb/metaverse.git"
   },
   "keywords": [
     "read-azure-secrets",
